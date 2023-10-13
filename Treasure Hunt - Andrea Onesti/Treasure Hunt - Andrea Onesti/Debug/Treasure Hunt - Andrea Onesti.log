@@ -1,0 +1,3 @@
+﻿  Treasure Hunt - Andrea Onesti.cpp
+C:\Users\Andrea\source\repos\Treasure Hunt - Andrea Onesti\Treasure Hunt - Andrea Onesti\Treasure Hunt - Andrea Onesti.cpp(146,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Treasure Hunt - Andrea Onesti.vcxproj -> C:\Users\Andrea\source\repos\Treasure Hunt - Andrea Onesti\Debug\Treasure Hunt - Andrea Onesti.exe
