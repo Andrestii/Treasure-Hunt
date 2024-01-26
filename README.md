@@ -1,2 +1,2 @@
-# TreasureHunt
-Progetto scolastico "Treasure Hunt" - Aprile 2020
+# Treasure Hunt
+School project "Treasure Hunt" - April 2020
