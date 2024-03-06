@@ -21,3 +21,6 @@ Per muoversi si utilizzano i tasti w, a, s, d.<br>
 - a = Sinistra
 - s = Giù
 - d = Destra
+---
+> [!TIP]
+> If you want to change the map size or the number of bombs, modify the variables N and B, respectively.
